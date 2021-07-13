@@ -1,0 +1,14 @@
+h1 {
+    color:#0000ff;
+    margin-right: auto;
+    margin-left: auto;
+    width: 10em;
+}
+
+p {
+   font-size: 35px;
+}
+
+span {
+    color: red;
+}

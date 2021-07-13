@@ -1,0 +1,48 @@
+body {
+    background-color: aqua;
+}
+
+h2 {
+     color:brown;
+    background-color:chocolate;
+}
+
+h2 + p {
+    color: darkgreen;
+    background-color: darkmagenta;
+}
+
+h3  {
+    color: gold;
+    background-color: snow;
+}
+
+h3 + p {
+    color: tomato;
+    background-color: rebeccapurple;
+}
+
+ol > li {
+    color: yellowgreen;
+    background-color: teal;
+}
+
+.items1 {
+    color: whitesmoke;
+}
+
+.itens2 {
+    color: violet;
+}
+
+.items3 {
+    color:red;
+}
+
+.items4 {
+    color: steelblue;
+}
+
+.items5 {
+    color: sienna;
+}
